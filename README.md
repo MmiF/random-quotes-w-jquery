@@ -2,4 +2,4 @@
 # Jquery
 # جسان (JSON)
 
-## [Live Preview](https://markdownlivepreview.com/).
+## [Live Preview](https://mmif.github.io/random-quotes-w-jquery/).
