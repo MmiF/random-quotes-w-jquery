@@ -57,7 +57,7 @@ body {
   background-color: rgb(255, 148, 71);
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 780px) {
   .quote-text {
     font-size: 20px;
     height: 15rem;
